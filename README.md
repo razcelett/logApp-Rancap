@@ -1,7 +1,7 @@
 # Log Application
 
 <p align="center">
-<img width="950" src="img\logo.PNG">
+<img width="950" src="img\logo.png">
 </p>
 During pandemic, we usually encounter logbooks in malls, stores, schools, almost every where we go. To lessen the hassle of writing in logbooks, Log Application is created to log the individual's information digitally.
 
