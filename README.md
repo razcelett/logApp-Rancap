@@ -110,10 +110,10 @@ A quick phpMyAdmin feature summary:
 </p>
 
 
-**Maria Czarlette Trixia G. Rancap**, a student of Palawan State University and currently taking Bachelor of Science in Computer Science, is the author of the *logApp-Rancap* Github repository. 
+**Maria Czarlette Trixia G. Rancap**, a student of Palawan State University and currently taking Bachelor of Science in Computer Science, is the author of the *logApp-Rancap* Github repository. <br/><br/>
 
 
 
-github account: https://github.com/razcelett 
-logApp-Rancap repository: https://github.com/razcelett/logApp-Rancap.git 
-facebook account: https://www.facebook.com/maria.rancap
+github account: https://github.com/razcelett <br/>
+logApp-Rancap repository: https://github.com/razcelett/logApp-Rancap.git <br/>
+facebook account: https://www.facebook.com/maria.rancap <br/>
